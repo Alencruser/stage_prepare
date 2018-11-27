@@ -1,5 +1,9 @@
 Ebauche de sommaire :
 
+Introduction sur l'entreprise :
+
+Taille de l'entreprise,type de l'entreprise, type de missions , environnement de travail. 
+
 I Présentation du contenu de préparation au projet :
 
 a- Présentation du cahier des charges ainsi que le dossier technique
