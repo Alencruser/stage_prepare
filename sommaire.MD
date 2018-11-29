@@ -23,3 +23,9 @@ a- Explication des fonctions back du projet
 b- Illustration des fonctions back les plus importantes à l'aide de screenshots du code  
 c- Illustration de l'utilisation de sécurité couplé à ces fonctions.  
 d- Illustration d'interactions(ajouts/modifications) avec la base de données en API à l'aide de screenshots
+
+IV Contenu Annexe de présentation
+
+a- Veille sur la sécurité durant le stage et les failles potentielles liés aux technos utilisées ainsi que les moyens de résolution mis en place  
+b-Recherche sur un site anglophone , situation qui a necéssité cette recherche ainsi que l'extrait du site en question ainsi que la traduction faite à la main de cet extrait  
+
